@@ -3,7 +3,7 @@
 Realizar un programa que sume dos numeros ingresados por el usuario y muestre el resultado.
 
 ## -Analisis
-Ver detalle del analisis en el archivo "TP#1 - Analisis.pdf".
+![Analisis grafico](https://github.com/mollonr/Adicion/blob/master/TP%231%20-%20Analisis.png)
  
  ## -Algoritmo
  ###### *Para fines practicos se considera como alcance del programa al grupo de numeros enteros más el cero*
